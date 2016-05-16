@@ -2,4 +2,5 @@
 simple payment
 
 depends on
-[ ] basic
+
+* basic
