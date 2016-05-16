@@ -1,0 +1,28 @@
+{
+  "name": "qpm_payment",
+  "version": "0.0.1",
+  "description": "quantum payment simple",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumpayments/payment.git"
+  },
+  "keywords": [
+    "payments"
+  ],
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantumpayments/payment/issues"
+  },
+  "homepage": "https://github.com/quantumpayments/payment#readme",
+  "dependencies": {
+    "webcredits": "^0.1.5"
+  }
+}
