@@ -1,7 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/quantumpayments/payment.png?label=ready&title=Ready)](https://waffle.io/quantumpayments/payment)
-# payment
-simple payment
+# qpm_payment
 
-depends on
-
-* basic
+payment functions
