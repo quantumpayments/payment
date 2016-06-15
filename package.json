@@ -1,25 +1,25 @@
 {
-  "name": "qpm_balance",
-  "version": "0.0.11",
-  "description": "balance functions",
+  "name": "qpm_payment",
+  "version": "0.0.2",
+  "description": "payment functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quantumpayments/balance.git"
+    "url": "git+https://github.com/quantumpayments/payment.git"
   },
   "keywords": [
     "balance",
     "payments"
   ],
-  "author": "Melvin Carvalho <quantumpayments@gmail.com> (https://melvincarvalho.com/#me)",
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/quantumpayments/balance/issues"
+    "url": "https://github.com/quantumpayments/payment/issues"
   },
-  "homepage": "https://github.com/quantumpayments/balance#readme",
+  "homepage": "https://github.com/quantumpayments/payment#readme",
   "dependencies": {
     "body-parser": "^1.15.1",
     "commander": "^2.9.0",
